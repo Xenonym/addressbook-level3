@@ -94,6 +94,10 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should not require an installer to function.
+6. Should be easily modifiable by students of CS2103.
+7. Should store data in a user-editable format.
+8. Should prioritise text input over graphical input.
 
 ## Appendix D : Glossary
 
